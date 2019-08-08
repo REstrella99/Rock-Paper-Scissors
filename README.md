@@ -2,4 +2,4 @@
 
 Rock Paper Scissors Interactive Web Game created with Javascript
 
-![Crystalcollector.png](https://raw.githubusercontent.com/REstrella99/Crystal-Collector-Game/master/crystalcollector.png)
+![rps2.png](https://raw.githubusercontent.com/REstrella99/Rock-Paper-Scissor-Game/master/rps2.png)
